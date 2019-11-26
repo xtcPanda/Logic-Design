@@ -1,0 +1,23 @@
+Project:
+    Project Name: Logic_1
+    Project Path: E:\Logic_1
+    Working Directory: E:\Logic_1
+    Description: First Lab
+    Top Level Source Type: HDL
+
+Device:
+    Device Family: Spartan6
+    Device:        xc6slx4
+    Package:       tqg144
+    Speed:         -3
+
+    Top-Level Source Type: HDL
+    Synthesis Tool: XST (VHDL/Verilog)
+    Simulator: ISim (VHDL/Verilog)
+    Preferred Language: VHDL
+    Property Specification in Project File: Store all values
+    Manual Compile Order: false
+    VHDL Source Analysis Standard: VHDL-93
+
+    Message Filtering: disabled
+
